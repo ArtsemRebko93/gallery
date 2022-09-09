@@ -1,1 +1,1 @@
-# gallery
+# In this repository you will find a simple implementation of "image gallery"
